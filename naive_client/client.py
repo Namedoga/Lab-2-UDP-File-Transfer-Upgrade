@@ -1,3 +1,5 @@
+# This program was modified by othniel / n01105862
+
 import socket
 import argparse
 import time
